@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpita Jain</h1>
 <h3 align="center">A passionate frontend developer from crafting engaging and user-friendly web experiences.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpita241" alt="arpita241" /></a> </p>
+
 - 🔭 I’m currently working on **proj1**
 
 - 🌱 I’m currently learning **DSA & JAVA**
